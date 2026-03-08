@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "lantas",
+        "projectKey": "lantas_survey-form"
+    }
+}
